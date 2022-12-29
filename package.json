@@ -1,0 +1,38 @@
+{
+  "name": "adventjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test1": "jest --watch ./reto1/index.test.js",
+    "test2": "jest --watch ./reto2/index.test.js",
+    "test3": "jest --watch ./reto3/index.test.js",
+    "test4": "jest --watch ./reto4/index.test.js",
+    "test5": "jest --watch ./reto5/index.test.js",
+    "test6": "jest --watch ./reto6/index.test.js",
+    "test7": "jest --watch ./reto7/index.test.js",
+    "test8": "jest --watch ./reto8/index.test.js",
+    "test9": "jest --watch ./reto9/index.test.js",
+    "test10": "jest --watch ./reto10/index.test.js",
+    "test11": "jest --watch ./reto11/index.test.js",
+    "test12": "jest --watch ./reto12/index.test.js",
+    "test13": "jest --watch ./reto13/index.test.js",
+    "test14": "jest --watch ./reto14/index.test.js",
+    "test15": "jest --watch ./reto15/index.test.js",
+    "test16": "jest --watch ./reto16/index.test.js",
+    "test17": "jest --watch ./reto17/index.test.js",
+    "test18": "jest --watch ./reto18/index.test.js",
+    "test19": "jest --watch ./reto19/index.test.js",
+    "test20": "jest --watch ./reto20/index.test.js",
+    "test21": "jest --watch ./reto21/index.test.js",
+    "test22": "jest --watch ./reto22/index.test.js",
+    "test23": "jest --watch ./reto23/index.test.js",
+    "test24": "jest --watch ./reto24/index.test.js"
+  },
+  "author": "noel-lopez",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
