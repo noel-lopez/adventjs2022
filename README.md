@@ -33,7 +33,7 @@ This also watch that challenge files for changes and reruns the test when someth
 - [ ] Day 6
 - [ ] Day 7
 - [ ] Day 8
- - [ ] Day 9<!--&nbsp;&nbsp;&emsp;&rarr;&emsp;200 points -->
+- [ ] Day 9<!--&nbsp;&nbsp;&emsp;&rarr;&emsp;200 points -->
 - [ ] Day 10<!--&emsp;&rarr;&emsp;200 points-->
 - [ ] Day 11
 - [ ] Day 12
