@@ -1,5 +1,5 @@
 # My adventjs solutions
-This repo showcases my [2022 advent.js](https://adventjs.dev/en) solutions made with Javascript + Jest
+This repo showcases my [2022 adventJS](https://adventjs.dev/en) solutions made with Javascript + Jest
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ This also watch that challenge files for changes and reruns the test when someth
 
 # Challenges made
 &check; Day 1 &nbsp;&nbsp;&emsp;⭐ Score: 121 <br />
-&cross; Day 2 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
+&check; Day 2 &nbsp;&nbsp;&emsp;⭐ Score: 121 <br />
 &cross; Day 3 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
 &cross; Day 4 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
 &cross; Day 5 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
