@@ -25,27 +25,27 @@ npm run test22
 This also watch that challenge files for changes and reruns the test when something changes. Used for testing while programming.
 
 # Challenges made
-- [ ] Day 1<!--&nbsp;&nbsp;&emsp;&rarr;&emsp;200 points-->
-- [ ] Day 2
-- [ ] Day 3
-- [ ] Day 4
-- [ ] Day 5
-- [ ] Day 6
-- [ ] Day 7
-- [ ] Day 8
-- [ ] Day 9<!--&nbsp;&nbsp;&emsp;&rarr;&emsp;200 points -->
-- [ ] Day 10<!--&emsp;&rarr;&emsp;200 points-->
-- [ ] Day 11
-- [ ] Day 12
-- [ ] Day 13
-- [ ] Day 14
-- [ ] Day 15
-- [ ] Day 16
-- [ ] Day 17
-- [ ] Day 18
-- [ ] Day 19
-- [ ] Day 20
-- [ ] Day 21
-- [ ] Day 22
-- [ ] Day 23
-- [ ] Day 24
+- [x] Day 1 &nbsp;&nbsp;&emsp;⭐ Score: 121
+- [ ] Day 2 <!--&nbsp;&nbsp;&emsp;⭐ Score: -->
+- [ ] Day 3 <!--&nbsp;&nbsp;&emsp;⭐ Score: -->
+- [ ] Day 4 <!--&nbsp;&nbsp;&emsp;⭐ Score: -->
+- [ ] Day 5 <!--&nbsp;&nbsp;&emsp;⭐ Score: -->
+- [ ] Day 6 <!--&nbsp;&nbsp;&emsp;⭐ Score: -->
+- [ ] Day 7 <!--&nbsp;&nbsp;&emsp;⭐ Score: -->
+- [ ] Day 8 <!--&nbsp;&nbsp;&emsp;⭐ Score: -->
+- [ ] Day 9 <!--&nbsp;&nbsp;&emsp;⭐ Score: -->
+- [ ] Day 10 <!--&nbsp;&nbsp;&ensp;⭐ Score: -->
+- [ ] Day 11 <!--&nbsp;&nbsp;&ensp;⭐ Score: -->
+- [ ] Day 12 <!--&nbsp;&nbsp;&ensp;⭐ Score: -->
+- [ ] Day 13 <!--&nbsp;&nbsp;&ensp;⭐ Score: -->
+- [ ] Day 14 <!--&nbsp;&nbsp;&ensp;⭐ Score: -->
+- [ ] Day 15 <!--&nbsp;&nbsp;&ensp;⭐ Score: -->
+- [ ] Day 16 <!--&nbsp;&nbsp;&ensp;⭐ Score: -->
+- [ ] Day 17 <!--&nbsp;&nbsp;&ensp;⭐ Score: -->
+- [ ] Day 18 <!--&nbsp;&nbsp;&ensp;⭐ Score: -->
+- [ ] Day 19 <!--&nbsp;&nbsp;&ensp;⭐ Score: -->
+- [ ] Day 20 <!--&nbsp;&nbsp;&ensp;⭐ Score: -->
+- [ ] Day 21 <!--&nbsp;&nbsp;&ensp;⭐ Score: -->
+- [ ] Day 22 <!--&nbsp;&nbsp;&ensp;⭐ Score: -->
+- [ ] Day 23 <!--&nbsp;&nbsp;&ensp;⭐ Score: -->
+- [ ] Day 24 <!--&nbsp;&nbsp;&ensp;⭐ Score: -->
