@@ -26,26 +26,26 @@ This also watch that challenge files for changes and reruns the test when someth
 
 # Challenges made
 &check; Day 1 &nbsp;&nbsp;&emsp;⭐ Score: 121 <br />
-&cross; Day 2 <!--&nbsp;&nbsp;&emsp;⭐ Score: <br /> -->
-- [ ] Day 3 <!--&nbsp;&nbsp;&emsp;⭐ Score: <br /> -->
-- [ ] Day 4 <!--&nbsp;&nbsp;&emsp;⭐ Score: <br /> -->
-- [ ] Day 5 <!--&nbsp;&nbsp;&emsp;⭐ Score: <br /> -->
-- [ ] Day 6 <!--&nbsp;&nbsp;&emsp;⭐ Score: <br /> -->
-- [ ] Day 7 <!--&nbsp;&nbsp;&emsp;⭐ Score: <br /> -->
-- [ ] Day 8 <!--&nbsp;&nbsp;&emsp;⭐ Score: <br /> -->
-- [ ] Day 9 <!--&nbsp;&nbsp;&emsp;⭐ Score: <br /> -->
-- [ ] Day 10 <!--&nbsp;&nbsp;&ensp;⭐ Score: <br /> -->
-- [ ] Day 11 <!--&nbsp;&nbsp;&ensp;⭐ Score: <br /> -->
-- [ ] Day 12 <!--&nbsp;&nbsp;&ensp;⭐ Score: <br /> -->
-- [ ] Day 13 <!--&nbsp;&nbsp;&ensp;⭐ Score: <br /> -->
-- [ ] Day 14 <!--&nbsp;&nbsp;&ensp;⭐ Score: <br /> -->
-- [ ] Day 15 <!--&nbsp;&nbsp;&ensp;⭐ Score: <br /> -->
-- [ ] Day 16 <!--&nbsp;&nbsp;&ensp;⭐ Score: <br /> -->
-- [ ] Day 17 <!--&nbsp;&nbsp;&ensp;⭐ Score: <br /> -->
-- [ ] Day 18 <!--&nbsp;&nbsp;&ensp;⭐ Score: <br /> -->
-- [ ] Day 19 <!--&nbsp;&nbsp;&ensp;⭐ Score: <br /> -->
-- [ ] Day 20 <!--&nbsp;&nbsp;&ensp;⭐ Score: <br /> -->
-- [ ] Day 21 <!--&nbsp;&nbsp;&ensp;⭐ Score: <br /> -->
-- [ ] Day 22 <!--&nbsp;&nbsp;&ensp;⭐ Score: <br /> -->
-- [ ] Day 23 <!--&nbsp;&nbsp;&ensp;⭐ Score: <br /> -->
-- [ ] Day 24 <!--&nbsp;&nbsp;&ensp;⭐ Score: <br /> -->
+&cross; Day 2 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
+&cross; Day 3 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
+&cross; Day 4 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
+&cross; Day 5 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
+&cross; Day 6 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
+&cross; Day 7 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
+&cross; Day 8 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
+&cross; Day 9 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
+&cross; Day 10 <!--&nbsp;&nbsp;&ensp;⭐ Score: --> <br />
+&cross; Day 11 <!--&nbsp;&nbsp;&ensp;⭐ Score: --> <br />
+&cross; Day 12 <!--&nbsp;&nbsp;&ensp;⭐ Score: --> <br />
+&cross; Day 13 <!--&nbsp;&nbsp;&ensp;⭐ Score: --> <br />
+&cross; Day 14 <!--&nbsp;&nbsp;&ensp;⭐ Score: --> <br />
+&cross; Day 15 <!--&nbsp;&nbsp;&ensp;⭐ Score: --> <br />
+&cross; Day 16 <!--&nbsp;&nbsp;&ensp;⭐ Score: --> <br />
+&cross; Day 17 <!--&nbsp;&nbsp;&ensp;⭐ Score: --> <br />
+&cross; Day 18 <!--&nbsp;&nbsp;&ensp;⭐ Score: --> <br />
+&cross; Day 19 <!--&nbsp;&nbsp;&ensp;⭐ Score: --> <br />
+&cross; Day 20 <!--&nbsp;&nbsp;&ensp;⭐ Score: --> <br />
+&cross; Day 21 <!--&nbsp;&nbsp;&ensp;⭐ Score: --> <br />
+&cross; Day 22 <!--&nbsp;&nbsp;&ensp;⭐ Score: --> <br />
+&cross; Day 23 <!--&nbsp;&nbsp;&ensp;⭐ Score: --> <br />
+&cross; Day 24 <!--&nbsp;&nbsp;&ensp;⭐ Score: --> <br />
