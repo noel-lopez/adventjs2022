@@ -25,8 +25,8 @@ npm run test22
 This also watch that challenge files for changes and reruns the test when something changes. Used for testing while programming.
 
 # Challenges made
-<input type="checkbox" disabled checked /> Day 1 &nbsp;&nbsp;&emsp;⭐ Score: 121 <br />
-<input type="checkbox" disabled /> Day 2 <!--&nbsp;&nbsp;&emsp;⭐ Score: -->
+- [x] Day 1 &nbsp;&nbsp;&emsp;⭐ Score: 121
+- [ ] Day 2 <!--&nbsp;&nbsp;&emsp;⭐ Score: -->
 - [ ] Day 3 <!--&nbsp;&nbsp;&emsp;⭐ Score: -->
 - [ ] Day 4 <!--&nbsp;&nbsp;&emsp;⭐ Score: -->
 - [ ] Day 5 <!--&nbsp;&nbsp;&emsp;⭐ Score: -->
