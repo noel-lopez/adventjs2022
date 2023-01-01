@@ -22,12 +22,12 @@ npm run test
 ```
 npm run test22
 ```
-This also watch that challenge files for changes and reruns the test when something changes. Used for testing while programming.
+This also stays listening for changes in the challenge folder and reruns the tests when saving a file with changes. I use it for testing while programming.
 
 # Challenges made
 &check; Day 1 &nbsp;&nbsp;&emsp;⭐ Score: 121 <br />
 &check; Day 2 &nbsp;&nbsp;&emsp;⭐ Score: 121 <br />
-&cross; Day 3 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
+&cross; Day 3 -&nbsp;&nbsp;&emsp;⭐ Score: 132 <br />
 &cross; Day 4 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
 &cross; Day 5 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
 &cross; Day 6 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
