@@ -2,7 +2,7 @@ const {distributeGifts} = require('./index')
 
 describe('Reto 3' , () => {
   it('return number type', () => {
-    expect(typeof distributeGifts(['a', 'b', 'c'], ['d', 'e', 'f'])).toBe('number')
+    expect(typeof distributeGifts(['a'], ['b'])).toBe('number')
   })
   it('should return 2 when 2 gifts can be delivered', () => {
     const packOfGifts = ["book", "doll", "ball"]
@@ -10,15 +10,13 @@ describe('Reto 3' , () => {
     expect(distributeGifts(packOfGifts, reindeers)).toBe(2)
   })
   it('should return 5 when 5 gifts can be delivered', () => {
-    expect(distributeGifts(
-      ['game', 'videoconsole', 'computer'], 
-      ['midudev', 'pheralb', 'codingwithdani', 'carlosble', 'blasco', 'facundocapua', 'madeval', 'memxd']))
-    .toBe(5)
+    const packOfGifts = ["game", "videoconsole", "computer"]
+    const reindeers = ["midudev", "pheralb", "codingwithdani", "carlosble", "blasco", "facundocapua", "madeval", "memxd"]
+    expect(distributeGifts(packOfGifts, reindeers)).toBe(5)
   })
   it('should return 26 when 26 gifts can be delivered', () => {
-    expect(distributeGifts(
-      ['music'], 
-      ['midudev', 'pheralb', 'codingwithdani', 'carlosble', 'blasco', 'facundocapua', 'madeval', 'memxd']))
-    .toBe(26)
+    const packOfGifts = ["music"]
+    const reindeers = ["midudev", "pheralb", "codingwithdani", "carlosble", "blasco", "facundocapua", "madeval", "memxd"]
+    expect(distributeGifts(packOfGifts, reindeers)).toBe(26)
   })
 })
