@@ -29,7 +29,7 @@ This also stays listening for changes in the challenge folder and reruns the tes
 &check; Day 2 &nbsp;&nbsp;&emsp;⭐ Score: 121 <br />
 &check; Day 3 &nbsp;&nbsp;&emsp;⭐ Score: 132 <br />
 &check; Day 4 &nbsp;&nbsp;&emsp;⭐ Score: 140 <br />
-&cross; Day 5 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
+&check; Day 5 &nbsp;&nbsp;&emsp;⭐ Score: 121 <br />
 &cross; Day 6 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
 &cross; Day 7 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
 &cross; Day 8 <!--&nbsp;&nbsp;&emsp;⭐ Score: --> <br />
